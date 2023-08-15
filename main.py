@@ -1,5 +1,7 @@
 
 print("Hello")
+print("Hello")
+
 
 def welcome():
     print("New Screen")
